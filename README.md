@@ -5,8 +5,8 @@
 ***Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.***
 ***
 ### *Aşamalar*
-* Root 7'dir.
 ***
+* Root 7'dir.
 ```
                                     7
 ```
@@ -109,3 +109,4 @@
                                / \
                               2   4
 ```
+***
